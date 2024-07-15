@@ -27,3 +27,8 @@ testing-crud-operations/
 ├── jest.config.js
 ├── package.json
 └── README.md
+
+
+
+Hello, I’m stuck on this assignment. Could you please explain my mistakes in detail? Thank you.
+
